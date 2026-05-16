@@ -10,6 +10,8 @@ Unlike some of my previous projects, this clone was built much faster and with s
 
 ## 🚀 Live Demo
 
+https://davi-sousa-queiroz.github.io/X-landing-page-clone/
+
 ---
 
 ## 🧠 What I Practiced
