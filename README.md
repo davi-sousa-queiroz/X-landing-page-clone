@@ -1,4 +1,4 @@
-# 🖤 X / Twitter Login Clone
+# 🖤 X / Twitter Login Clone (May 16th 2026)
 
 A clean X (formerly Twitter) inspired login and signup page clone built with HTML and CSS.
 
@@ -35,6 +35,8 @@ https://davi-sousa-queiroz.github.io/X-landing-page-clone/
 ---
 
 ## 📸 Preview
+
+![Preview](screenshot.png)
 
 ---
 
